@@ -98,6 +98,5 @@
   - O prompt deve ser claro, estruturado e amigável para coletar as informações necessárias de forma eficiente.
   - Devem ser consideradas validações para entradas incorretas (por exemplo, garantir que o personal trainer escolha um biotipo válido).
   
-- **Exemplo de Prompt**:
   ```plaintext
   "Por favor, informe o biotipo corporal do usuário (Ectomorfo, Mesomorfo, Endomorfo), quantos dias por semana ele pode treinar (1, 3 ou 5) e seu tipo de exercício preferido (Funcional, Maquinário, Peso Livre, Cardio, HIIT)."
